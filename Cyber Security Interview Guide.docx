@@ -39,35 +39,53 @@ Develop, document and execute different Incident response playbooks.
 --> Learn about any exisiting playbook in place and process to document runbook.
 
 Serve as a point of escalation to all information security incidents, that includes but not limited to providing direction, training, and guidance to other security engineers and analysts.
-Existing policies in place and plan to address teams growth.
+--> Existing policies in place and plan to address teams growth.
 
 Conduct network and systems forensics, log analysis and basic malware analysis.
+--> Existing Cyber Security Framework and Standards in Use.
+
 Implement various information security controls to accomplish full incident containment, and mitigation.
+--> Approach taken and automation scope for identification, assessment, containment and remeditaion and/or mitigation.
+
 Drive post mortem plans to improve Carvana’s cyber security posture.
+--> Existing maturity model and future scope ?
+
 Assist in creation well-defined, time-lined, and clear deliverables.
+--> Understand Overall working Process and expectation in deliverables
+
 Work with global network engineers, systems administrators, and applications owners to implement security controls and processes.
+--> CAB process and change management process
+
 Lead different security operations projects, including process and Playbooks improvement.
-Build scripts, tools, or methodologies to enhance Carvana’s incident investigation processes
-What you should have
-Minimum of 5 Years of experience in the Information security field.
-Have deep technical knowledge and expertise in the Incident response, Threat detection at scale, Threat hunting, and creating effective infosec best practices.
-Deep understanding of TCP/IP, attack models ( such as MITRE’s ATT& CK framework), and experience applying them at scale.
-Hands-on experience in creating detection correlation rules, basic integration, deploying various InfoSec tools, and intelligence gathering.
-Hands-on experience with Incident response, and containment practices.
+--> Custom tools and methodology used to drive security program.
+
+Build scripts, tools, or methodologies to enhance Carvana’s incident investigation processes.
+--> Version control tools and external resource help 
+
+Incident response, 
+Threat detection at scale, 
+Threat hunting,
+creating effective infosec best practices.
+
+TCP/IP, 
+attack models ( such as MITRE’s ATT& CK framework), application at scale.
+creating detection correlation rules, 
+basic integration, 
+deploying various InfoSec tools, 
+and intelligence gathering.
+Incident response, and containment practices.
 Advanced understanding of cloud environments (such as AWS).
-Familiarity with cloud platform’s information security related capabilities.
+AWS cloud platform’s information security related capabilities.
 A broad base of technical knowledge in system administration, network engineering, and compliance.
 Proven track record of delivery results in an enterprise environment.
-Communicate clearly and effectively
-Excellent writing skills
-It would be great if you also had
-Experience with authentication methods, Kerberos, SAML, OAuth, etc...
-Experience with G-Suite and Google security features.
-Knowledge of internet security issues and the threat landscape.
-Knowledge of network vulnerability scanning techniques and nmap.
-Knowledge of host-based information security technologies such as Tanium and Crowdstrike.
-Knowledge of the security implications involving a variety of technologies including but not limited to; Microsoft, Cisco, Palo Alto security devices, Unix/Linux, Nutanix, and other market leaders in technology solutions, including mobile devices.
-Knowledge of IDS/IPS, firewalls, proxies, and other network security technologies.
+
+authentication methods, Kerberos, SAML, OAuth, etc...
+G-Suite and Google security features.
+internet security issues and the threat landscape.
+network vulnerability scanning techniques and nmap.
+host-based information security technologies such as Tanium and Crowdstrike.
+security implications involving a variety of technologies including but not limited to; Microsoft, Cisco, Palo Alto security devices, Unix/Linux, Nutanix, and other market leaders in technology solutions, including mobile devices.
+IDS/IPS, firewalls, proxies, and other network security technologies.
 
 
 Senior Information Security Engineer - eBay - January 2022
