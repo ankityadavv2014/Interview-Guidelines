@@ -2,29 +2,23 @@
 These are Ideas, Notes, Tips &amp; Tricks to Manage Interviews.
 
   _______     ______  ______ _____  
- / ____\ \   / /  _ \|  ____|  __ \ 
+ / ____\ \   / /  _ \|  ____|  __ \  
 | |     \ \_/ /| |_) | |__  | |__) |
 | |      \   / |  _ <|  __| |  _  / 
 | |____   | |  | |_) | |____| | \ \ 
  \_____|  |_|  |____/|______|_|  \_\
-                                    
-                                    
-  _____ ______ _____ _    _ _____  _____ _________     __
+   _____ ______ _____ _    _ _____  _____ _________     __
  / ____|  ____/ ____| |  | |  __ \|_   _|__   __\ \   / /
 | (___ | |__ | |    | |  | | |__) | | |    | |   \ \_/ / 
  \___ \|  __|| |    | |  | |  _  /  | |    | |    \   /  
  ____) | |___| |____| |__| | | \ \ _| |_   | |     | |   
-|_____/|______\_____|\____/|_|  \_\_____|  |_|     |_|   
-                                                         
-                                                         
+|_____/|______\_____|\____/|_|  \_\_____|  |_|     |_|                                                                                          
  _____ _   _ _______ ______ _______      _______ ________          __
 |_   _| \ | |__   __|  ____|  __ \ \    / /_   _|  ____\ \        / /
   | | |  \| |  | |  | |__  | |__) \ \  / /  | | | |__   \ \  /\  / / 
   | | | . ` |  | |  |  __| |  _  / \ \/ /   | | |  __|   \ \/  \/ /  
  _| |_| |\  |  | |  | |____| | \ \  \  /   _| |_| |____   \  /\  /   
-|_____|_| \_|  |_|  |______|_|  \_\  \/   |_____|______|   \/  \/    
-                                                                     
-                                                                     
+|_____|_| \_|  |_|  |______|_|  \_\  \/   |_____|______|   \/  \/                                                                       
   _____ _    _ _____ _____  ______ 
  / ____| |  | |_   _|  __ \|  ____|
 | |  __| |  | | | | | |  | | |__   
@@ -35,10 +29,18 @@ These are Ideas, Notes, Tips &amp; Tricks to Manage Interviews.
 
 Senior Information Security Engineer, Incident Response - Carvana - January 2022
 
-Engineer, implement and administer security tools across the enterprise.
-Provide subject matter expertise to drive security incidents to resolution.
-Develop, document and execute different Incident response playbooks.
+Engineer, implement and administer security tools across the enterprise. 
+-- > Learn about the security tools used on daily basis and check if any prior trainings required?
+
+Provide subject matter expertise to drive security incidents to resolution. 
+--> Talk about what types of security incidents occured in past and what needs immediate focus ?
+
+Develop, document and execute different Incident response playbooks. 
+--> Learn about any exisiting playbook in place and process to document runbook.
+
 Serve as a point of escalation to all information security incidents, that includes but not limited to providing direction, training, and guidance to other security engineers and analysts.
+Existing policies in place and plan to address teams growth.
+
 Conduct network and systems forensics, log analysis and basic malware analysis.
 Implement various information security controls to accomplish full incident containment, and mitigation.
 Drive post mortem plans to improve Carvana’s cyber security posture.
